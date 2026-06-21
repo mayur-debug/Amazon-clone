@@ -19,7 +19,7 @@
     width: 150px;
 }
 .logo{
-    background-image: url("Amazon-Logo.webp");
+    background-image: url("/img/Amazon-Logo.webp");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -126,7 +126,7 @@ span{
  /* for hero section  */
 
  .hero-section{
-    background-image: url("hero.jpg");
+    background-image: url("/img/hero.jpg");
     background-size: cover;
     height: 400px;  
     display: flex;
@@ -218,7 +218,7 @@ span{
     align-items: center;
  }
  .logo{
-  background-image: url("Amazon-Logo.webp");
+  background-image: url("/img/Amazon-Logo.webp");
     background-size: cover;
     height: 50px;
     width: 130px;  
